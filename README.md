@@ -22,8 +22,8 @@ sudo ln -s nginx.conf /etc/nginx/sites-enabled/32_stylish_portal
 sudo /etc/init.d/nginx restart
 ```
 Сайты будут доступны по ссылкам:
-* [127.0.0.1:8011](127.0.0.1:8011)
-* [127.0.0.1:8012](127.0.0.1:8012)
+* [http://127.0.0.1:8011](http://127.0.0.1:8011)
+* [http://127.0.0.1:8012](http://127.0.0.1:8012)
 
 # Project Goals
 
